@@ -12,7 +12,7 @@ console.log("Obtener piloto:", obtenerPiloto("XCSAS45: Jean Vazques"));
 const obtenerTemperaturaMedia = (tempManana, tempTarde) =>
   (tempManana + tempTarde) / 2;
   
-console.log("obtener temperatura media:",  obtenerTemperaturaMedia(45,90));
+console.log("obtener temperatura media:",  obtenerTemperaturaMedia(30,90));
 
 
 const contarSablesNegativos=(listaSables) => 
